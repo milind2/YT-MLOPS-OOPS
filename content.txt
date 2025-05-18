@@ -1,0 +1,8 @@
+1. class and object
+2. class has attribute/variable & function/method
+3. why python is called OOP ? everthing in python is object/class. if your type(datatype) -> will show you class dataype.
+4. Advantages for oops
+    > You can create your own datatypes
+    > code reusability
+    > debugging
+    > easy to colaborate
