@@ -6,3 +6,10 @@
     > code reusability
     > debugging
     > easy to colaborate
+
+5. Understanding imports in python:
+   when we import something like from sklearn.preprocessing import train_test_split
+   here 'sklearn' is folder, in this folder there is file with name preprocessing and from this file import class train_test_split
+
+    ex- from oops_proj import chatbook
+    in this example oops_proj is file name and from this file we imported a class chatbook
